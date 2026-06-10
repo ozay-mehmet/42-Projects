@@ -1,3 +1,6 @@
 [submodule "42-Python-Projects"]
 	path = 42-Python-Projects
 	url = git@github.com:ozay-mehmet/42-Python-Projects.git
+[submodule "Push_swap"]
+	path = Push_swap
+	url = git@github.com:ozay-mehmet/Push_swap.git
