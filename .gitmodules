@@ -13,3 +13,6 @@
 [submodule "42-Printf"]
 	path = 42-Printf
 	url = git@github.com:ozay-mehmet/42-Printf.git
+[submodule "42-Libft"]
+	path = 42-Libft
+	url = git@github.com:ozay-mehmet/42-Libft.git
