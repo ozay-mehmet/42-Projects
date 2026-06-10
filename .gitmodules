@@ -1,0 +1,3 @@
+[submodule "42-Python-Projects"]
+	path = 42-Python-Projects
+	url = git@github.com:ozay-mehmet/42-Python-Projects.git

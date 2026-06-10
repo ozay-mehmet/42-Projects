@@ -1,3 +1,0 @@
-Your b file contains the difference between sw.diff and a.
-
-The command you will write from the terminal ==> diff a sw.diff -o b
