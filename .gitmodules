@@ -10,3 +10,6 @@
 [submodule "42-Get_Next_Line"]
 	path = 42-Get_Next_Line
 	url = git@github.com:ozay-mehmet/42-Get_Next_Line.git
+[submodule "42-Printf"]
+	path = 42-Printf
+	url = git@github.com:ozay-mehmet/42-Printf.git
